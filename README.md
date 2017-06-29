@@ -1,0 +1,2 @@
+# FirstApp-kobussc
+FirstAppForLearing kobussc
